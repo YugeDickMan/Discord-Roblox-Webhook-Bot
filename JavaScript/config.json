@@ -1,0 +1,5 @@
+{
+  "token": "Discord Bot Token",
+  "prefix": "Discord Bot Prefix",
+  "logChannelID": "Log Channel ID"
+}
